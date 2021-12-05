@@ -1,11 +1,11 @@
 # UFOs
 
-##Overview
+## Overview
 
 This scrpit and html produce a webpage with a data set that filters automatically based on changes in the search bars for 
 date, city, state, country, and shape.
 
-##Filtering the table
+## Filtering the table
 
 - Load the webpage
 
@@ -28,12 +28,12 @@ date, city, state, country, and shape.
 
 ## Summary
 
-###Drawbacks
+### Drawbacks
 
 The biggest drawback of the webpage is that these queries rely somewhat on a user knowing what values are in the dataset already.
 For example, some of the shapes are "light" and "teardrop" a new user likely wouldn't know that these are options to search.
 
-###Recommendations
+### Recommendations
 
 I would recommend developing drop-down menus for each of the values besides date, while still being able to type into the bar for a search.
 List the available shapes, state codes, country codes, and perhaps make the city menu update for whatever state you've searched as well. 
