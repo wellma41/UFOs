@@ -9,16 +9,21 @@ date, city, state, country, and shape.
 
 -Load the webpage
 
+![Load](https://user-images.githubusercontent.com/90660790/144742496-09146df1-21f3-484f-b118-71cb33292584.PNG)
 
 -Type a date, city, state code, or country code into the "filter search" boxes. Afterwards hit enter or just click off of the box.
 
+![Search](https://user-images.githubusercontent.com/90660790/144742504-c7683ec0-8f40-4766-893d-d5a0307e784f.PNG)
 
 
 -If you want to search more than one criteria just repeat the previous step.
 
+![search_again](https://user-images.githubusercontent.com/90660790/144742511-9876718f-8bc0-4fe5-9aa0-54d462a241ca.PNG)
 
 
 -If your entry doesn't appear in the data set a blank table will be returned.
+
+![no_results](https://user-images.githubusercontent.com/90660790/144742518-2a205f86-e8ca-4a2f-959f-6981e4045cc8.PNG)
 
 
 ##Summary
